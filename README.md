@@ -1,0 +1,10 @@
+## Screenshots
+![Screenshot from 2024-03-19 15-01-56](https://github.com/PratikHGhadge/ThePortfolyo-task/assets/93422248/8fc234fc-46c5-47ab-bf7c-f031058b832f)
+![Screenshot from 2024-03-19 15-02-07](https://github.com/PratikHGhadge/ThePortfolyo-task/assets/93422248/c38dce5b-1dc4-4978-9465-dace423bd9a5)
+![Screenshot from 2024-03-19 15-02-14](https://github.com/PratikHGhadge/ThePortfolyo-task/assets/93422248/4d10cab7-1e94-4291-a3d3-e59290e43cc3)
+![Screenshot from 2024-03-19 15-02-28](https://github.com/PratikHGhadge/ThePortfolyo-task/assets/93422248/d4a799f6-2911-4ef1-93a2-236a19b41116)
+![Screenshot from 2024-03-19 15-02-33](https://github.com/PratikHGhadge/ThePortfolyo-task/assets/93422248/7b8d35f4-bf4d-429b-ab1a-26cdf03d1dbf)
+![Screenshot from 2024-03-19 15-02-39](https://github.com/PratikHGhadge/ThePortfolyo-task/assets/93422248/a5e48a88-0013-4470-b8d4-f5ff8c6146e5)
+![Screenshot from 2024-03-19 15-02-58](https://github.com/PratikHGhadge/ThePortfolyo-task/assets/93422248/68b4a435-69ef-466e-99e0-0ed1ac989e1a)
+![Screenshot from 2024-03-19 15-03-11](https://github.com/PratikHGhadge/ThePortfolyo-task/assets/93422248/f4673432-afa0-404f-af47-1acf4b8940b9)
+![Screenshot from 2024-03-19 15-03-33](https://github.com/PratikHGhadge/ThePortfolyo-task/assets/93422248/f69f35aa-9f62-4315-8f5b-e0bffe9514c9)
