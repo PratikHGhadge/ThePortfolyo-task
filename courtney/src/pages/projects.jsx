@@ -1,13 +1,9 @@
-import { useState } from "react";
-
 import Layouts from "@layouts/Layouts";
 import PageBanner from "@components/PageBanner";
 import ProjectsGrid from "@components/ProjectsGrid";
 import CallToActionSection from "@components/sections/CallToAction";
 
 import { getSortedProjectsData } from "@library/projects";
-
-import Link from "next/link";
 
 const Projects = (props) => {
   return (

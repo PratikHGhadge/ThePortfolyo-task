@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 import Layouts from "@layouts/Layouts";
 import PageBanner from "@components/PageBanner";
 import ProjectsGrid from "@components/ProjectsGrid";
